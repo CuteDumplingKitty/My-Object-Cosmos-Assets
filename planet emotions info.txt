@@ -1,0 +1,16 @@
+happy/delighted - yellow
+sad/unhappy - blue
+angry/mad - red
+scared/embarrased - green
+queasy/disgusted - chartreuse
+jealous/envious - emerald
+brave/fearless - orange
+bored/disinterested - gray
+loving/crushing - magenta
+annoyed/irritated - scarlet
+creative/innovative - purple
+inspired/motivated - lavender
+shy/timid - light gray or silver
+hating/furious - maroon
+confuzed/dazed - cornflower
+tired/sleepy - ultramarine
