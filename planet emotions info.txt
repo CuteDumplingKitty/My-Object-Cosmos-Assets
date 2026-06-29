@@ -14,3 +14,21 @@ shy/timid - light gray or silver
 hating/furious - maroon
 confuzed/dazed - cornflower
 tired/sleepy - ultramarine
+shocked/surprised - white
+moody/gloomy - black
+excited - cyan
+silly - cyan
+egotistic - blonde
+obsessive - gold
+tickled - pink
+passionate - heliotrope
+lazy - citrine
+thinking - liver
+paranoid - patriarch
+cool - brown
+chill - ginger
+calm/peaceful - aquamarine
+worked up - topaz
+dizzy - mint
+crazy - multi colored
+curious - turquoise
